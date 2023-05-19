@@ -1,6 +1,5 @@
 # Hi, welcome!
 
-![](https://visitor-badge.laobi.icu/badge?page_id=AaronCrvl.AaronCrvl)
 [![Github](https://img.shields.io/github/followers/AaronCrvl?label=Follow&style=social)](https://github.com/AaronCrvl)
 
 I'm a (on development) full stack developer.
