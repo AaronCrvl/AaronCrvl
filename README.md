@@ -5,7 +5,9 @@
 
 I'm a (on development) full stack developer.
 
-I've attended a graduation on Software Engeneering at UFMG (Universidade Federal de Minas Gerais) for 5 years, and now I'm attending an Analysis and Software Development course at PUC (Pontifícia Universidade Católica de Minas Gerais).
+I've attended a graduation on software engineering at UFMG (Universidade Federal de Minas Gerais) for 5 years, and now I'm attending an analysis and software development course at PUC (Pontifícia Universidade Católica de Minas Gerais).
+
+Here, you can find some of my projects. 🔭 I’m currently working on some ReactJS and C#-integrated projects.
 
 Here you can find some of my projects.
 🔭 I’m currently working on some React and C# integrated projects.
@@ -21,6 +23,3 @@ Here you can find some of my projects.
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=toy-land-api&theme=dracula)](https://github.com/thepracticaldev/dev.to)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=Jornal-Online-React&theme=dracula)](https://github.com/thepracticaldev/dev.to)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=Simple-Notes-Application&theme=dracula)](https://github.com/thepracticaldev/dev.to)
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=WebAPI_02&theme=dracula)](https://github.com/thepracticaldev/dev.to)
-##
-
