@@ -17,6 +17,8 @@ Here you can find some of my projects.
 ![AaronCrvl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronCrvl&show_icons=true&theme=dracula)
 
 ## Recent Projects
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=toy-land-web&theme=dracula)](https://github.com/thepracticaldev/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=toy-land-api&theme=dracula)](https://github.com/thepracticaldev/dev.to)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=Jornal-Online-React&theme=dracula)](https://github.com/thepracticaldev/dev.to)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=Simple-Notes-Application&theme=dracula)](https://github.com/thepracticaldev/dev.to)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=WebAPI_02&theme=dracula)](https://github.com/thepracticaldev/dev.to)
