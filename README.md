@@ -15,7 +15,7 @@ Here you can find some of my projects. 🔭 I’m currently working on some Reac
 
 ## ⚡ Stats
 ![AaronCrvl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronCrvl&show_icons=true&theme=dracula)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl"/>
 
 ## Recent Projects
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=toy-land-web&theme=dracula)](https://github.com/thepracticaldev/dev.to)
