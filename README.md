@@ -1,4 +1,4 @@
-# Hi, welcome!
+# 🔭 Welcome!
 
 [![Github](https://img.shields.io/github/followers/AaronCrvl?label=Follow&style=social)](https://github.com/AaronCrvl)
 
@@ -12,7 +12,10 @@ Here you can find some of my projects. 🔭 I’m currently working on some Reac
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg"/>    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg"/>    <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>    <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronCrvl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⚡ Stats
 ![AaronCrvl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronCrvl&show_icons=true&theme=dracula)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
 
 ## Recent Projects
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=toy-land-web&theme=dracula)](https://github.com/thepracticaldev/dev.to)
