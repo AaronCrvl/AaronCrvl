@@ -28,4 +28,16 @@ I've attended a graduation on software engineering at UFMG (Universidade Federal
 
 
 ## 
-![AaronCrvl's Stats](https://github-readme-stats.vercel.app/api?username=AaronCrvl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)![AaronCrvl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl&theme=tokyonight&hide_border=true)
+<table>
+  <tbody>
+    <tr>
+      <td>               
+          <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=nord&preferLogin=true">    <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AaronCrvl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />  </a>
+        </td>       
+      </td>   
+      <td>
+        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=nord&preferLogin=true">    <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl&theme=tokyonight&hide_border=true" />  </a>
+        </td>
+    </tr>    
+    </tbody>
+</table> 
