@@ -1,24 +1,32 @@
-# 🔭 Welcome!
+# ♟️ Welcome!
 
-[![Github](https://img.shields.io/github/followers/AaronCrvl?label=Follow&style=social)](https://github.com/AaronCrvl)
-
-I'm a (on development) full stack developer.
+I'm on my path to becoming a full stack developer and am currently working as a junior C# developer.
 
 I've attended a graduation on software engineering at UFMG (Universidade Federal de Minas Gerais) for 5 years, and now I'm attending an analysis and software development course at PUC (Pontifícia Universidade Católica de Minas Gerais).
 
-Here you can find some of my projects. 🔭 I’m currently working on some React and C# integrated projects.
+* 🔭 I’m currently working on new ReacJs and NextJs projects.
+* ☄️ I’m currently learning NextJs
+* 📫 How to reach me: carvalhosins@gmail.com
+* 🔗 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaroncarvalho7/)
 
-## 🧰 Languages and Tools:
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg"/>    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg"/>    <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>    <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronCrvl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+##
 
-## ⚡ Stats
-![AaronCrvl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronCrvl&show_icons=true&theme=dracula)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl"/>
+<table>
+  <tbody>
+    <tr>
+      <td>               
+          <img height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"> <img height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"> <img height="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"> <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <img height="50px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png">                                    
+          <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="50px" width="50px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe97f6ec-47bf-42e8-99e5-d673e9787fb6/d5bmuf9-70278409-11af-40b2-b790-bcee46c55840.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlOTdmNmVjLTQ3YmYtNDJlOC05OWU1LWQ2NzNlOTc4N2ZiNlwvZDVibXVmOS03MDI3ODQwOS0xMWFmLTQwYjItYjc5MC1iY2VlNDZjNTU4NDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4ueHabTTJwBTQvTXKzE-2FGfqzl6rplVTMWRqDgbBoE"> <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> <img height="50px" width="50px" src="https://alternative.me/media/256/microsoft-team-foundation-server-icon-kxq2ebo7bws38xxb-c.png">           
+      </td>   
+      <td>
+        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=nord&preferLogin=true">    <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronCrvl&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />  </a>
+        </td>
+    </tr>    
+    </tbody>
+</table> 
 
-## Recent Projects
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=toy-land-web&theme=dracula)](https://github.com/thepracticaldev/dev.to)
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=toy-land-api&theme=dracula)](https://github.com/thepracticaldev/dev.to)
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=Jornal-Online-React&theme=dracula)](https://github.com/thepracticaldev/dev.to)
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AaronCrvl&repo=Simple-Notes-Application&theme=dracula)](https://github.com/thepracticaldev/dev.to)
+
+## 
+![AaronCrvl's Stats](https://github-readme-stats.vercel.app/api?username=AaronCrvl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![AaronCrvl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl&theme=tokyonight&hide_border=true)
