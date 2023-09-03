@@ -4,8 +4,8 @@ I'm on my path to becoming a full stack developer, currently working as a junior
 
 I've attended a graduation on software engineering at UFMG (Universidade Federal de Minas Gerais) for 5 years, and now I'm attending an analysis and software development course at PUC (Pontifícia Universidade Católica de Minas Gerais).
 
-* 🔭 I’m currently working on new ReacJs and C# projects.
-* ☄️ I’m currently learning Typescript and Next Js.
+* 🔭 I’m currently working on new ReactJs and C# projects.
+* ☄️ I’m currently learning R and AI concepts.
 * 📫 How to reach me: carvalhosins@gmail.com
 * 🔗 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaroncarvalho7/)
 
