@@ -1,4 +1,4 @@
-# ♟️ Welcome!
+# ♟️Welcome!
 
 I'm on my path to becoming a full stack developer, currently working as a junior C# developer.
 
