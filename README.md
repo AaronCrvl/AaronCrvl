@@ -1,43 +1,69 @@
-# ♟️Welcome!
+# ♟️Welcome! 
 
 I'm on my path to becoming a full stack developer, currently working as a junior C# developer.
 
 I've attended a graduation on software engineering at UFMG (Universidade Federal de Minas Gerais) for 5 years, and now I'm attending an analysis and software development course at PUC (Pontifícia Universidade Católica de Minas Gerais).
 
-* 🔭 I’m currently working on new ReactJs and C# projects.
-* ☄️ I’m currently learning R and AI concepts.
-* 📫 How to reach me: carvalhosins@gmail.com
-* 🔗 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaroncarvalho7/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaroncrvl&label=Profile%20views&color=0e75b6&style=flat" alt="aaroncrvl" /> </p>
+
+- 🔭 I’m currently working on **full stack projects**
+
+- 🌱 I’m currently learning **NextJs, Blazor**
+
+- 👯 I’m looking to collaborate on **React and AspNet Core projects**
+
+- 📫 How to reach me **carvalhosins@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aaroncarvalho7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaroncarvalho7" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14415433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14415433" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aaroncrvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaroncrvl" height="30" width="40" /></a>
+</p>
 
 
 ##
-
 <table>
   <tbody>
     <tr>
-      <td>               
-          <img height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"> <img height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"> <img height="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"> <img height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <img height="50px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png">                                    
-          <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"> <img height="50px" width="50px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe97f6ec-47bf-42e8-99e5-d673e9787fb6/d5bmuf9-70278409-11af-40b2-b790-bcee46c55840.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlOTdmNmVjLTQ3YmYtNDJlOC05OWU1LWQ2NzNlOTc4N2ZiNlwvZDVibXVmOS03MDI3ODQwOS0xMWFmLTQwYjItYjc5MC1iY2VlNDZjNTU4NDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4ueHabTTJwBTQvTXKzE-2FGfqzl6rplVTMWRqDgbBoE"> <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> <img height="50px" width="50px" src="https://alternative.me/media/256/microsoft-team-foundation-server-icon-kxq2ebo7bws38xxb-c.png">           
-      </td>   
-      <td>
-        <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronCrvl&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />        
+      <td>        
+        <p>
+          <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronCrvl&theme=onedark&show_icons=true&hide_border=true&layout=compact" />
+          <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AaronCrvl&theme=onedark&show_icons=true&hide_border=true&count_private=true" />         
+        </p>
       </td>
+      <td>
+        <p>
+          <h5>Tools</h5>
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" /> 
+        </p>
+        <p>
+          <h5>Frontend</h5>
+          <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react" />  
+        </p>
+        <p>
+          <h5>Backend</h5>
+          <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,nodejs" />
+        </p>
+        <p>
+          <h5>Design</h5>
+          <img src="https://skillicons.dev/icons?i=figma,ps" />
+        </p>
+      </td>         
     </tr>    
     </tbody>
 </table> 
-
-
-## 
 <table>
   <tbody>
     <tr>
+       <td>
+         <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl&theme=onedark&hide_border=true" />
+        </td>
       <td>               
           <img  alt="AaronCrvl Leet Code Stats" src="https://leetcode-stats.vercel.app/api?username=AaronCrvl&theme=Mist" />
         </td>       
-      </td>   
-      <td>
-         <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl&theme=tokyonight&hide_border=true&count_private=true&hide_border=true" />
-        </td>
+      </td>       
     </tr>    
     </tbody>
 </table> 
