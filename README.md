@@ -15,11 +15,11 @@ I've attended a graduation on software engineering at UFMG (Universidade Federal
   <tbody>
      <tr>
        <td>         
-        <h5>Tools</h5><img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,vercel" />
+        <h5>Tools</h5><img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,postman,vercel,discord" />
         </td>
         <td>               
           <h5>Version Control</h5>
-          <img src="https://skillicons.dev/icons?i=azure,git,github,discord" />  
+          <img src="https://skillicons.dev/icons?i=azure,git" />  
         </td>       
       </td>       
     </tr>     
