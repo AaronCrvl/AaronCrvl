@@ -40,7 +40,7 @@ I've attended a graduation on software engineering at UFMG (Universidade Federal
         </td>  
         <td>               
           <h5>Backend</h5>
-          <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,nodejs" />  
+          <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />  
         </td>
          <td>         
           <h5>ORM / SGBD / DBaaS</h5>
