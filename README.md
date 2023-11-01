@@ -6,83 +6,46 @@ I've attended a graduation on software engineering at UFMG (Universidade Federal
 
 - 🎯 I’m currently working on **full stack projects**
 - 📫 How to reach me **carvalhosins@gmail.com**
-  
-<a href="https://linkedin.com/in/aaroncarvalho7" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+- 🎈 Currently learning **NextJs and Blazor**
+- <a href="https://linkedin.com/in/aaroncarvalho7" target="blank">Linkedin</a>
 
+# Stats
+
+<p>
+  <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronCrvl&theme=react&show_icons=true&hide_border=true&layout=compact" />
+  <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl&theme=react&hide_border=true" />
+</p>
 
 # Stack
 <table>
   <tbody>
      <tr>
        <td>         
-        <h5>Tools</h5><img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,postman,vercel,discord" />
+        <h5>Tools</h5><img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,vercel,discord" />
         </td>
         <td>               
           <h5>Version Control</h5>
           <img src="https://skillicons.dev/icons?i=azure,git" />  
-        </td>       
+        </td> 
+        <td>                               
+          <h5>Design</h5>
+          <img src="https://skillicons.dev/icons?i=figma,ps" />
+        </td>         
       </td>       
     </tr>     
-     <tr>
-       <td>               
-          <h5>Backend</h5>
-          <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,nodejs,express" />  
-        </td>
+     <tr>       
        <td>         
         <h5>Frontend</h5>
-         <img src="https://skillicons.dev/icons?i=css,sass,tailwind,html,js,ts,react,nextjs,gulp,webpack" />
-        </td>            
-      </td>       
-    </tr>   
-    <tr>
-       <td>         
-        <h5>ORM / SGBD / DBaaS</h5>
-        <img src="https://skillicons.dev/icons?i=mysql,prisma,firebase" />
+         <img src="https://skillicons.dev/icons?i=css,tailwind,html,js,ts,react" />
+        </td>  
+        <td>               
+          <h5>Backend</h5>
+          <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,nodejs" />  
         </td>
-      <td>                               
-        <h5>Testing</h5>
-        <img src="https://skillicons.dev/icons?i=jest" />
-        </td>       
-      </td>       
-    </tr>  
-    <tr>
-       <td>                               
-        <h5>Design</h5>
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-        </td>       
-      </td> 
-       <td>         
-        <h5>Currently Learning</h5>
-        <img src="https://skillicons.dev/icons?i=nextjs,svelte" />
+         <td>         
+          <h5>ORM / SGBD / DBaaS</h5>
+          <img src="https://skillicons.dev/icons?i=mysql,prisma,firebase" />
         </td>          
-    </tr>  
-    </tbody>
-</table> 
-
-
-
-
-# Stats
-</div>
-<table>
-  <tbody>
-     <tr>
-       <td>
-         <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronCrvl&theme=onedark&show_icons=true&hide_border=true&layout=compact" />
-        </td>
-      <td>               
-          <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AaronCrvl&theme=onedark&show_icons=true&hide_border=true&count_private=true" />         
-        </td>       
-      </td>       
-    </tr>   
-    <tr>
-       <td>
-         <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl&theme=onedark&hide_border=true" />
-        </td>
-      <td>               
-          <img  alt="AaronCrvl Leet Code Stats" src="https://leetcode-stats.vercel.app/api?username=AaronCrvl&theme=Mist" />
-        </td>       
-      </td>       
-    </tr>    
+    </tr>           
     </tbody>
 </table> 
