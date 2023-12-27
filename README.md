@@ -11,10 +11,10 @@ I've attended a graduation on software engineering at UFMG (Universidade Federal
 
 # Stats
 
-<p>
-  <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronCrvl&theme=react&show_icons=true&hide_border=true&layout=compact" />
-  <img  alt="AaronCrvl's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl&theme=react&hide_border=true" />
-</p>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronCrvl&theme=outrun&show_icons=true&hide_border=true&layout=compact" />    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronCrvl&theme=outrun&hide_border=true" />      
+</div>
 
 # Stack
 <table>
