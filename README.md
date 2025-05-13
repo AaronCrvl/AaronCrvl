@@ -1,4 +1,4 @@
-# 👋 Hi!
+# Hi!
 
 I'm on the path to becoming a **Full Stack Developer**, currently working as a **Junior C# Developer**.
 
