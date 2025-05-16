@@ -30,11 +30,11 @@ I'm on the path to becoming a **Full Stack Developer**, currently working as a *
       <tr>
         <td>
           <h5>🧪 Tools / Deploy</h5>
-          <img src="https://skillicons.dev/icons?i=postman,vercel,azure,githubactions" />
+          <img src="https://skillicons.dev/icons?i=postman,vercel,githubactions" />
         </td>
         <td>
           <h5>📁 Version Control</h5>
-          <img src="https://skillicons.dev/icons?i=git" />
+          <img src="https://skillicons.dev/icons?i=git,azure" />
         </td>
         <td>
           <h5>🎨 Design</h5>
@@ -44,7 +44,7 @@ I'm on the path to becoming a **Full Stack Developer**, currently working as a *
       <tr>
         <td>
           <h5>🌐 Frontend</h5>
-          <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,next" />
+          <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" />
         </td>
         <td>
           <h5>⚙️ Backend</h5>
